@@ -1,0 +1,9 @@
+[ Frame / Image ]
+       ↓
+[ OpenCV pre-processing ]
+       ↓
+[ Pyzbar or ZBar decode() ]
+       ↓
+[ Extract (x, y) from corners ]
+       ↓
+[ Map to robot space → Path planning ]
